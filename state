@@ -1,0 +1,32 @@
+{
+  "STATE": [
+    {
+      "id": 2,
+      "stateName": "ABC",
+      "stateCode": "456 ",
+      "cityName": "DEF"
+    },
+    {
+      "id": 3,
+      "stateName": "karnataka",
+      "stateCode": "1",
+      "cityName": "Bengaluru"
+    },
+    {
+      "id": 8,
+      "stateName": "Karnataka",
+      "stateCode": "560000",
+      "cityName": "Raichur"
+    },
+    {
+      "stateName": "Maharasthra",
+      "stateCode": "589241",
+      "id": 9
+    },
+    {
+      "stateName": "Alabama",
+      "stateCode": "Birhimgam",
+      "id": 10
+    }
+  ]
+}
